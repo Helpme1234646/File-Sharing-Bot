@@ -58,7 +58,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌ᴅᴏɴ'ᴛ sᴇɴᴅ ᴍᴇ ᴍᴇssᴀɢᴇs ᴅɪʀᴇᴄᴛʟʏ ɪ'ᴍ ᴏɴʟʏ ғɪʟᴇ sʜᴀʀᴇ ʙᴏᴛ!"
+USER_REPLY_TEXT = "❌𝙼𝚎𝚜𝚜𝚊𝚐𝚎 𝙼𝚊𝚝𝚑 𝚂𝚎𝚗𝚍 𝚔𝚛 𝚋𝚑𝚊𝚒 𝚖𝚎 𝚏𝚒𝚔𝚎 𝚜𝚑𝚊𝚛𝚒𝚗𝚐 𝚋𝚘𝚝 𝚑𝚞!"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
